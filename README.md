@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 13.12.2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,9 +59,15 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![Screenshot 2024-12-28 143316](https://github.com/user-attachments/assets/353b2f8d-42d3-4fc6-a0df-ab612b4eade0)
+![Screenshot 2024-12-28 143332](https://github.com/user-attachments/assets/067bcde9-dd65-497e-a547-87d8d597bd4b)
+![Screenshot 2024-12-28 143342](https://github.com/user-attachments/assets/b0b969fb-f276-4306-b277-28697cbf29b8)
+![Screenshot 2024-12-28 143356](https://github.com/user-attachments/assets/0812e56e-4f35-48e8-863f-56d19d822860)
+![Screenshot 2024-12-28 143409](https://github.com/user-attachments/assets/24ccca1a-c9b7-4425-88a0-a4f1aff228ae)
 
-### Name: 
-### Register Number:
+
+### Name: LOKESH S
+### Register Number:24900098
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
